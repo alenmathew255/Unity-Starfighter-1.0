@@ -1,2 +1,4 @@
 # Unity-Starfighter-1.0
-First game uploaded to GitHub and starting point of learning Unity C#
+This is the first game I have uploaded to GitHub, and it serves as the starting point for my journey in learning Unity and C#.
+
+I utilized collisions, player movement, prefabs, and custom scripts to build the game.
